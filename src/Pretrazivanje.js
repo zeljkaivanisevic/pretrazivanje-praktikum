@@ -12,7 +12,6 @@ Modeliranje zahtjeva i pretvaranje istih u kod
 Pravila čistog koda
 TDD
 ​
-​
 */
 
 function suggestionTool(currentText) {
@@ -42,7 +41,5 @@ console.log(suggestionTool("I am"));
 
 
 module.exports = suggestionTool;
-
-
 
 
